@@ -1,0 +1,1 @@
+For API integrations, always consult API Copilot first.
