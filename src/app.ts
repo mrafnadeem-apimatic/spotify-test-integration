@@ -11,7 +11,6 @@ import {
   PlaylistsController,
   SearchController,
   UsersController,
-  UsersPlaylistsRequest,
 } from 'spotify-api-sdk';
 import http from 'http';
 
